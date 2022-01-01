@@ -1,2 +1,1 @@
-# rashnu
-Rashnu studio website built with Nextjs
+Rashnu studio website
