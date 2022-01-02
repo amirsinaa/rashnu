@@ -1,0 +1,9 @@
+{
+  "editor.tabSize": 2,
+  "prettier.enable": true,
+  "jest.autoEnable": false,
+  "editor.formatOnSave": true,
+  "emmet.triggerExpansionOnTab": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": ["source.addMissingImports", "source.fixAll.format", "source.fixAll.eslint"]
+}
